@@ -13,4 +13,4 @@ took to find it.
 ## Execution
 
 To execute the program, use the command: `python3 prove02.py` on your terminal. Then you will be requesting what you want from the "countries.json" file. After that, you only need to type the country you want to search for and it will give you an answer if the country was founded and how it took to do so.
-![Program Screenshot Displaying Hello World on terminal](screenshot.png)
+![Program Running](screenshot.png)
